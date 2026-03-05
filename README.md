@@ -5,7 +5,7 @@ Este projeto tem como objetivo demonstrar o uso da **Inteligência Artificial (I
 
 A proposta consiste em utilizar o NotebookLM para **criar um mini guia de estudos** sobre um determinado tema. A partir de fontes de informação previamente selecionadas, a ferramenta será utilizada para:
 
-![](img1.png)
+![](img/img1.png)
 
 - gerar **resumos estruturados do conteúdo**;
 - organizar os principais **conceitos e tópicos de estudo**;
