@@ -63,6 +63,11 @@ Materiais produzidos:
 # 6. Conclusão
 
 O uso do NotebookLM permite organizar fontes, sintetizar conteúdos e gerar perguntas que estimulam o aprendizado ativo. A ferramenta facilita a compreensão de conceitos financeiros básicos e ajuda na revisão do conteúdo.
+
+
+![](Pasted%20image%2020260305145309.png)
+
+
 <iframe src="Renda_Fixa_Estrategica.pdf" width="100%" height="600px"></iframe>
 
 <iframe src="Renda_Fixa_Estrategica" width="100%" height="600px"></iframe>
