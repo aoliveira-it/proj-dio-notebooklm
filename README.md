@@ -14,8 +14,6 @@ A proposta consiste em utilizar o NotebookLM para **criar um mini guia de estudo
 
 Dessa forma, o projeto busca evidenciar como ferramentas de IA podem **otimizar o processo de aprendizagem, facilitar a compreensão de conteúdos e apoiar a organização do conhecimento**.
 
-Este guia oferece uma visão detalhada sobre a **renda fixa**, desmistificando a ideia de que essa categoria é composta apenas por investimentos simples e sem riscos. O guia explica as diferentes formas de remuneração, como as taxas **prefixadas, pós-fixadas e híbridas**, ajudando o investidor a alinhar suas escolhas aos seus objetivos financeiros. São apresentadas as principais opções do mercado, incluindo **títulos públicos, produtos bancários e crédito privado**, com destaque para o funcionamento do **Fundo Garantidor de Créditos (FGC)**. Além disso, o material aborda a **tributação regressiva** e os riscos de crédito, mercado e liquidez que podem afetar o patrimônio. Por fim, a fonte estabelece comparações essenciais entre ativos populares para orientar uma **tomada de decisão consciente** e estratégica.
-
 ## 2. Tema
 
 - Introdução a renda fixa
@@ -56,6 +54,8 @@ Materiais produzidos:
 
 - **Um conjunto de slides em formato PDF**, contendo uma apresentação resumida dos principais conceitos relacionados à renda fixa.
 - **Um guia de estudos**, reunindo resumos estruturados, explicações dos conceitos fundamentais e organização do conteúdo para facilitar a aprendizagem.
+
+Este guia oferece uma visão detalhada sobre a **renda fixa**, desmistificando a ideia de que essa categoria é composta apenas por investimentos simples e sem riscos. O guia explica as diferentes formas de remuneração, como as taxas **prefixadas, pós-fixadas e híbridas**, ajudando o investidor a alinhar suas escolhas aos seus objetivos financeiros. São apresentadas as principais opções do mercado, incluindo **títulos públicos, produtos bancários e crédito privado**, com destaque para o funcionamento do **Fundo Garantidor de Créditos (FGC)**. Além disso, o material aborda a **tributação regressiva** e os riscos de crédito, mercado e liquidez que podem afetar o patrimônio. Por fim, a fonte estabelece comparações essenciais entre ativos populares para orientar uma **tomada de decisão consciente** e estratégica.
 
 Preview:
 
