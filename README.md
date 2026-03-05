@@ -66,7 +66,7 @@ Preview:
  Preview:
  
 ![](img/Pasted%20image%2020260305153831.png)
-[Link para o guia de estudos sobre renda fixa](intro_guia_estudos_renda_fixa.md)
+[Link para o guia de estudos sobre renda fixa](arq/intro_guia_estudos_renda_fixa.md)
 
 
 # 6. Conclusão
