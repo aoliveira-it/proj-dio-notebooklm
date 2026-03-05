@@ -57,10 +57,16 @@ Materiais produzidos:
 - **Um conjunto de slides em formato PDF**, contendo uma apresentação resumida dos principais conceitos relacionados à renda fixa.
 - **Um guia de estudos**, reunindo resumos estruturados, explicações dos conceitos fundamentais e organização do conteúdo para facilitar a aprendizagem.
 
-![](arq/Renda_Fixa_Estrategica.pdf)
+Preview:
 
+![](img/Pasted%20image%2020260305153531.png)
+
+[Link para o slide gerado pelo NotebookLM](arq/Renda_Fixa_Estrategica.pdf)
+
+ Preview:
  
-![](arq/guia_estudos_renda_fixa)
+![](img/Pasted%20image%2020260305153831.png)
+[Link para o guia de estudos sobre renda fixa](arq/guia_estudos_renda_fixa)
 
 # 6. Conclusão
 
