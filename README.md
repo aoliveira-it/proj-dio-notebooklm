@@ -5,7 +5,7 @@ Este projeto tem como objetivo demonstrar o uso da **Inteligência Artificial (I
 
 A proposta consiste em utilizar o NotebookLM para **criar um mini guia de estudos** sobre um determinado tema. A partir de fontes de informação previamente selecionadas, a ferramenta será utilizada para:
 
-![[Pasted image 20260305123138.png]]
+![](img1.png)
 
 - gerar **resumos estruturados do conteúdo**;
 - organizar os principais **conceitos e tópicos de estudo**;
@@ -29,7 +29,8 @@ Este guia oferece uma visão detalhada sobre a **renda fixa**, desmistificando 
 
 Fontes carregadas no NotebookLM
 
-![[Pasted image 20260305120715.png]]
+![](img2.png)
+
 
 ## 4. Objetivo
 
@@ -39,11 +40,12 @@ Fontes carregadas no NotebookLM
 
 Nesta etapa, foram elaboradas perguntas estratégicas utilizando o NotebookLM com o objetivo de explorar melhor o conteúdo das fontes selecionadas. Essas perguntas ajudam a direcionar o estudo, aprofundar a compreensão do tema e extrair informações relevantes dos materiais analisados.
 
- ![[Captura de tela 2026-03-05 115045.png]]
+![](Captura%20de%20tela%202026-03-05%20115045.png)
 
-![[Pasted image 20260305115651.png]]
+![](img4.png)
 
-![[Pasted image 20260305115912.png]]
+![](img5.png)
+
 
 
 ## 6. Resultado
@@ -55,20 +57,11 @@ Materiais produzidos:
 - **Um conjunto de slides em formato PDF**, contendo uma apresentação resumida dos principais conceitos relacionados à renda fixa.
 - **Um guia de estudos**, reunindo resumos estruturados, explicações dos conceitos fundamentais e organização do conteúdo para facilitar a aprendizagem.
 
-![[Renda_Fixa_Estrategica.pdf]]
+![](arq/Renda_Fixa_Estrategica.pdf)
 
-
-![[guia_estudos_renda_fixa]]
+ 
+![](arq/guia_estudos_renda_fixa)
 
 # 6. Conclusão
 
 O uso do NotebookLM permite organizar fontes, sintetizar conteúdos e gerar perguntas que estimulam o aprendizado ativo. A ferramenta facilita a compreensão de conceitos financeiros básicos e ajuda na revisão do conteúdo.
-
-
-![](Pasted%20image%2020260305145309.png)
-
-
-<iframe src="Renda_Fixa_Estrategica.pdf" width="100%" height="600px"></iframe>
-
-<iframe src="Renda_Fixa_Estrategica" width="100%" height="600px"></iframe>
-<iframe src="" width="100%" height="600px"></iframe>
