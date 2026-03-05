@@ -40,11 +40,11 @@ Fontes carregadas no NotebookLM
 
 Nesta etapa, foram elaboradas perguntas estratégicas utilizando o NotebookLM com o objetivo de explorar melhor o conteúdo das fontes selecionadas. Essas perguntas ajudam a direcionar o estudo, aprofundar a compreensão do tema e extrair informações relevantes dos materiais analisados.
 
-![](Captura%20de%20tela%202026-03-05%20115045.png)
+![](img/Captura%20de%20tela%202026-03-05%20115045.png)
 
-![](img4.png)
+![](img/img4.png)
 
-![](img5.png)
+![](img/img5.png)
 
 
 
