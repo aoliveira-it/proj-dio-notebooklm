@@ -29,7 +29,7 @@ Este guia oferece uma visão detalhada sobre a **renda fixa**, desmistificando 
 
 Fontes carregadas no NotebookLM
 
-![](img2.png)
+![](img/img2.png)
 
 
 ## 4. Objetivo
