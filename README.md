@@ -1,6 +1,4 @@
 
-# Guia Completo de Investimentos em Renda Fixa
-
 ## 1. Uso da Inteligência Artificial como Ferramenta de Aprendizagem
 
 Este projeto tem como objetivo demonstrar o uso da **Inteligência Artificial (IA)** como uma ferramenta de apoio ao processo de aprendizagem. Nesse contexto, será utilizada a plataforma NotebookLM para auxiliar na organização e no estudo de conteúdos.
