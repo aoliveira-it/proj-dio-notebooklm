@@ -68,6 +68,7 @@ Preview:
 ![](img/Pasted%20image%2020260305153831.png)
 [Link para o guia de estudos sobre renda fixa](arq/guia_estudos_renda_fixa)
 
+
 # 6. Conclusão
 
 O uso do NotebookLM permite organizar fontes, sintetizar conteúdos e gerar perguntas que estimulam o aprendizado ativo. A ferramenta facilita a compreensão de conceitos financeiros básicos e ajuda na revisão do conteúdo.
